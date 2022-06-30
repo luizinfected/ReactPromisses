@@ -1,5 +1,5 @@
-import Requisicoes from './components/Requisicoes';
-import Tasks from './components/Tasks';
+import Requisicoes from './components/requisicoes';
+import Tasks from './components/tasks';
 import './components/style.css';
 
 function App() {
